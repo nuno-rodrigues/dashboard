@@ -1,5 +1,5 @@
 {
-    "stats": {
+    "stats": [{ 
         "top": [
             {
                 "label": "Lauren",
@@ -34,7 +34,7 @@
                 "value": 7
             }
         ]
-    },
+    }],
     "profile": {
       "name": "typicode"
     }
