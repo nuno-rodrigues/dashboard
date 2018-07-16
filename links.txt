@@ -1,0 +1,2 @@
+https://my-json-server.typicode.com/
+https://www.creativebloq.com/how-to/create-a-dashboard-app-with-react
