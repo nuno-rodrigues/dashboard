@@ -1,40 +1,38 @@
 {
-    "stats": [{ 
-        "top": [
-            {
-                "label": "Lauren",
-                "value": 26
-            },
-            {
-                "label": "Dave",
-                "value": 13
-            },
-            {
-                "label": "John",
-                "value": 18
-            },
-            {
-                "label": "Gregg",
-                "value": 19
-            },
-            {
-                "label": "Matt",
-                "value": 4
-            },
-            {
-                "label": "Jaral",
-                "value": 12
-            },
-            {
-                "label": "Bridget",
-                "value": 18
-            },
-            {
-                "label": "Rob",
-                "value": 7
-            }
-        ]
-    }],
+    "stats": [
+        {
+            "label": "Lauren",
+            "value": 26
+        },
+        {
+            "label": "Dave",
+            "value": 13
+        },
+        {
+            "label": "John",
+            "value": 18
+        },
+        {
+            "label": "Gregg",
+            "value": 19
+        },
+        {
+            "label": "Matt",
+            "value": 4
+        },
+        {
+            "label": "Jaral",
+            "value": 12
+        },
+        {
+            "label": "Bridget",
+            "value": 18
+        },
+        {
+            "label": "Rob",
+            "value": 7
+        }
+    ],
     "profile": {
       "name": "typicode"
     }
